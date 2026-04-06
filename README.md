@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕 난 정은영이야 👋
 
 <!--
 **jeyoung4224-rgb/jeyoung4224-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
