@@ -27,6 +27,10 @@ https://github.com/jeyoung4224-rgb/myfirstREPO
    <img src="도리1.jpg" width="300">
 </p>
 
+<p align="center">
+   <img src="도리2.jpg" width="300">
+</p>
+
 
 ---
 Here are some ideas to get you started:
