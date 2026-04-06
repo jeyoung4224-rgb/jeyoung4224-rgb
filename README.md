@@ -4,6 +4,12 @@
    <img src="fgn.png" width="400">
 </p>
 
+
+<p align="center">
+   <img src="도리2.png" width="400">
+</p>
+
+
 **jeyoung4224-rgb/jeyoung4224-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
