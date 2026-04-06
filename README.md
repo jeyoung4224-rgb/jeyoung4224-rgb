@@ -28,7 +28,7 @@ https://github.com/jeyoung4224-rgb/myfirstREPO
 </p>
 
 <p align="center">
-   <img src="도리2.jpg" width="300">
+   <img src="도리2.jpg" width="200">
 </p>
 
 
