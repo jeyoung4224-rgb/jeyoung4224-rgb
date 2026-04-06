@@ -6,7 +6,7 @@
 
 
 <p align="center">
-   <img src="도리2.png" width="400">
+   <img src="도리1.png" width="400">
 </p>
 
 
