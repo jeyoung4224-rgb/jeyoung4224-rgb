@@ -2,7 +2,7 @@
 
 ---
 
-
+<img src="https://github.com/user-attachments/assets/95958597-9e63-4702-8640-305886d9a97d" width="50%"> 
 ---
 <!--
 **jeyoung4224-rgb/jeyoung4224-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
