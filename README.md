@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-내가 공부 하고 있는 링크는 다음에 있어
-https://www.band.us/band/101702520/post
+
