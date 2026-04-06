@@ -6,6 +6,12 @@
 
 **jeyoung4224-rgb/jeyoung4224-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### 진행중인 프로젝트
+
+https://github.com/jeyoung4224-rgb/myfirstREPO
+   1. 어쩌구
+   2. 도리
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
