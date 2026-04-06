@@ -16,7 +16,10 @@
 https://github.com/jeyoung4224-rgb/myfirstREPO
    1. 어쩌구
    2. 도리
-   3. 
+   <p align="center">
+   <img src="도리1.png" width="400">
+</p>
+
 ---
 Here are some ideas to get you started:
 
