@@ -11,7 +11,7 @@
 ### 진행중인 프로젝트
 
 <p align="center">
-   <img src="유령.png" width="400">
+   <img src="유령.png" width="200">
 
 https://github.com/jeyoung4224-rgb/myfirstREPO
    1. 어쩌구
